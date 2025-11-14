@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="100%" alt="Neon Background"/>
-</p>
 
 <h1 align="center">🌌 Hello, I'm Builder! 🚀</h1>
 <p align="center">
