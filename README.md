@@ -1,7 +1,7 @@
 
 <h1 align="center">🌌 Hello, I'm Builder! 🚀</h1>
 <p align="center">
-Welcome to my **GitHub Universe**! 🌟  
+Welcome to my <bold>GitHub Universe</bold>🌟  
 I craft <b>futuristic web apps</b> ⚡ with clean code ✨ and neon vibes 💡
 </p>
 
