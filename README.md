@@ -40,22 +40,7 @@ I craft <b>futuristic web apps</b> ⚡ with clean code ✨ and neon vibes 💡
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINK/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR-LINK"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/YOUR-LINK"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-</p>
-
----
-
 <p align="center">
 ✨ <b>Let's create the future, one line of code at a time!</b> ✨
 </p>
 
----
-
-<p align="center">
-<em>💡 Fun tip: Hover over the badges for neon glow effect 🔮</em>
-</p>
